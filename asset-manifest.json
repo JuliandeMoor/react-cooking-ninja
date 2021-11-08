@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-cooking-ninja/static/css/main.18be7f1e.chunk.css",
+    "main.js": "/react-cooking-ninja/static/js/main.d8f84bb4.chunk.js",
+    "main.js.map": "/react-cooking-ninja/static/js/main.d8f84bb4.chunk.js.map",
+    "runtime-main.js": "/react-cooking-ninja/static/js/runtime-main.3366988a.js",
+    "runtime-main.js.map": "/react-cooking-ninja/static/js/runtime-main.3366988a.js.map",
+    "static/js/2.f2acb473.chunk.js": "/react-cooking-ninja/static/js/2.f2acb473.chunk.js",
+    "static/js/2.f2acb473.chunk.js.map": "/react-cooking-ninja/static/js/2.f2acb473.chunk.js.map",
+    "index.html": "/react-cooking-ninja/index.html",
+    "static/css/main.18be7f1e.chunk.css.map": "/react-cooking-ninja/static/css/main.18be7f1e.chunk.css.map",
+    "static/js/2.f2acb473.chunk.js.LICENSE.txt": "/react-cooking-ninja/static/js/2.f2acb473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3366988a.js",
+    "static/js/2.f2acb473.chunk.js",
+    "static/css/main.18be7f1e.chunk.css",
+    "static/js/main.d8f84bb4.chunk.js"
+  ]
+}
